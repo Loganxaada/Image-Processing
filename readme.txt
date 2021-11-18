@@ -1,4 +1,4 @@
-本次大作业在matlab2018a下运行无误
-其他版本由于函数的更改不保证运行正确
-运行gui.fig为主界面
-crop,fig，sift.fig为分界面
+This project ran correctly under matlab2018a
+Other versions are not guaranteed to run correctly due to function changes
+Run gui.fig as the main interface
+crop, fig, sift.fig are sub-interfaces
